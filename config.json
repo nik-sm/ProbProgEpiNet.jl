@@ -1,0 +1,38 @@
+{
+  "Test": {
+    "county_pop": 803907,
+    "node_attributes": "ExperimentData/mini_topologies/300_nodes_node_attributes.json",
+    "edge_attributes": "ExperimentData/mini_topologies/300_nodes_edge_attributes.json",
+    "jhu_county_name": "Suffolk",
+    "jhu_state_name": "Massachusetts",
+    "mortality_rate": 0.0486,
+    "death_undercount_factor": 10
+  },
+  "middlesex-exp": {
+    "county_pop": 1611699,
+    "node_attributes": "ExperimentData/updated_network_model/middlesex/20_cbgs/01/node_attributes.json",
+    "edge_attributes": "ExperimentData/updated_network_model/middlesex/20_cbgs/01/edge_attributes_02-17.json",
+    "jhu_county_name": "Middlesex",
+    "jhu_state_name": "Massachusetts",
+    "mortality_rate": 0.0698,
+    "death_undercount_factor": 10
+  },
+  "losangeles-exp": {
+    "county_pop": 10039107,
+    "node_attributes": "ExperimentData/updated_network_model/losangeles/20_cbgs/01/node_attributes.json",
+    "edge_attributes": "ExperimentData/updated_network_model/losangeles/20_cbgs/01/edge_attributes_02-17.json",
+    "jhu_county_name": "Los Angeles",
+    "jhu_state_name": "California",
+    "mortality_rate": 0.0231,
+    "death_undercount_factor": 10
+  },
+  "miamidade-exp": {
+    "county_pop": 2716940,
+    "node_attributes": "ExperimentData/updated_network_model/miamidade/20_cbgs/01/node_attributes.json",
+    "edge_attributes": "ExperimentData/updated_network_model/miamidade/20_cbgs/01/edge_attributes.json",
+    "jhu_county_name": "Miami-Dade",
+    "jhu_state_name": "Florida",
+    "mortality_rate": 0.0157,
+    "death_undercount_factor": 10
+  }
+}

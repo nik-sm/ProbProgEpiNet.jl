@@ -1,0 +1,29 @@
+.DS_Store
+
+*.vscode
+
+log/*
+test_log/*
+compare_log/*
+output/*
+test_output/*
+
+**/*.swp
+
+.setup.stamp
+
+**.ipynb_checkpoints
+
+# Ignore results generated within validation_cycle folder
+validation_cycle/
+
+baseline_comparison/*
+
+venv/*
+
+# Ignore downloaded and uncompressed data files
+size_varying/*
+time_varying/*
+updated_network_model/*
+ExperimentData/*
+COVID-19/*

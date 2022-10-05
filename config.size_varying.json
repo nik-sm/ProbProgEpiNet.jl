@@ -1,0 +1,47 @@
+{
+    "middlesex-exp-5_cbgs": {
+        "county_pop": 1611699,
+        "node_attributes": "size_varying/middlesex/5_cbgs/01/node_attributes.json",
+        "edge_attributes": "size_varying/middlesex/5_cbgs/01/edge_attributes.json",
+        "jhu_county_name": "Middlesex",
+        "jhu_state_name": "Massachusetts",
+        "mortality_rate": 0.0698,
+        "death_undercount_factor": 10
+    },
+    "middlesex-exp-10_cbgs": {
+        "county_pop": 1611699,
+        "node_attributes": "size_varying/middlesex/10_cbgs/01/node_attributes.json",
+        "edge_attributes": "size_varying/middlesex/10_cbgs/01/edge_attributes.json",
+        "jhu_county_name": "Middlesex",
+        "jhu_state_name": "Massachusetts",
+        "mortality_rate": 0.0698,
+        "death_undercount_factor": 10
+    },
+    "middlesex-exp-15_cbgs": {
+        "county_pop": 1611699,
+        "node_attributes": "size_varying/middlesex/15_cbgs/01/node_attributes.json",
+        "edge_attributes": "size_varying/middlesex/15_cbgs/01/edge_attributes.json",
+        "jhu_county_name": "Middlesex",
+        "jhu_state_name": "Massachusetts",
+        "mortality_rate": 0.0698,
+        "death_undercount_factor": 10
+    },
+    "middlesex-exp-30_cbgs": {
+        "county_pop": 1611699,
+        "node_attributes": "size_varying/middlesex/30_cbgs/01/node_attributes.json",
+        "edge_attributes": "size_varying/middlesex/30_cbgs/01/edge_attributes.json",
+        "jhu_county_name": "Middlesex",
+        "jhu_state_name": "Massachusetts",
+        "mortality_rate": 0.0698,
+        "death_undercount_factor": 10
+    },
+    "middlesex-exp-40_cbgs": {
+        "county_pop": 1611699,
+        "node_attributes": "size_varying/middlesex/40_cbgs/01/node_attributes.json",
+        "edge_attributes": "size_varying/middlesex/40_cbgs/01/edge_attributes.json",
+        "jhu_county_name": "Middlesex",
+        "jhu_state_name": "Massachusetts",
+        "mortality_rate": 0.0698,
+        "death_undercount_factor": 10
+    }
+}

@@ -1,0 +1,12 @@
+black
+flake8
+isort
+loguru
+jupyterlab
+matplotlib
+mypy
+numpy
+pandas
+seaborn
+torch
+tqdm
