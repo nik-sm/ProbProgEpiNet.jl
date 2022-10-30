@@ -4,14 +4,14 @@ using ArgParse
 using Dates
 using Dierckx
 using Distributions
-using Gen ##
-using GraphSEIR ##
-using JLD ##
+using Gen
+using GraphSEIR
+using JLD
 using JSON
-using LightGraphs
+using Graphs
 using MetaGraphs
 using Pandas
-using Plots ##
+using Plots
 using Random
 using RollingFunctions
 using StatsBase

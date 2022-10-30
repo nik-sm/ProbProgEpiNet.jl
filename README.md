@@ -55,4 +55,20 @@ See [scripts](scripts) and [notebook](notebook) for files to run experiments and
 
 # Citation
 
-Recommended citation will be added soon.
+If you use our work, please include the following citation:
+
+```bibtex
+@article{10.1371/journal.pcbi.1010591,
+    title = {Probabilistic program inference in network-based epidemiological simulations},
+    author = {Smedemark-Margulies, Niklas AND Walters, Robin AND Zimmermann, Heiko AND Laird, Lucas AND van der Loo, Christian AND Kaushik, Neela AND Caceres, Rajmonda AND van de Meent, Jan-Willem},
+    journal = {PLOS Computational Biology},
+    year = {2022},
+    month = {11},
+    volume = {18},
+    pages = {1-40},
+    number = {11},
+    publisher = {Public Library of Science},
+    doi = {10.1371/journal.pcbi.1010591},
+    url = {https://doi.org/10.1371/journal.pcbi.1010591},
+}
+```

@@ -34,5 +34,4 @@ if [[ ! -d ExperimentData ]] || [[ ! -d size_varying ]] || [[ ! -d time_varying 
 fi
 
 # Setup julia environment
-# NOTE - this expects ssh-agent to have correct identity loaded
-julia -e 'using Pkg; Pkg.activate("."); Pkg.add(url="git@github.mit.edu:graph-control/GraphSEIR.jl.git", rev="time-varying-edges"); Pkg.instantiate(); Pkg.build(); using Pandas'
+julia -e 'using Pkg; Pkg.activate("."); Pkg.instantiate(); Pkg.build(); using Pandas'
